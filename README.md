@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Facundo's blog
+This will be my personal blog.  
+I write this website in order to practice use Next.js React framework. 
