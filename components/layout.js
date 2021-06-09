@@ -24,7 +24,6 @@ const Layour = ({children,home}) => {
                 />
                 <meta name="og:title" content={siteTitle} />
                 <meta name="twitter:card" content="summary_large_image" />
-                <meta charset="UTF-8"/>
             </Head>
             <header className={styles.header}>
                 {home 
