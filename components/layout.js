@@ -9,6 +9,7 @@ export const siteTitle = 'Home'
 
 const Layour = ({children,home}) => {
     return (
+        <>
         <div className={styles.container}>
             <Head>
                 <link rel="stylesheet" href="/favicon.ico" />
@@ -39,9 +40,6 @@ const Layour = ({children,home}) => {
                                 alt={name}
                             />
                             <h1 className={utilStyles.heading2Xl}>{name}</h1>
-                            <Link href="/posts/first-post">
-                                <a>First Post</a>
-                            </Link>
                         </>
                     )
                 : 
@@ -77,6 +75,7 @@ const Layour = ({children,home}) => {
                 </div>
             )}
         </div>
+        </>
     );
 }
  
