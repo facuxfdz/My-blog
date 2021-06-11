@@ -27,10 +27,6 @@ export default function Home({ allPostsData }) {
           from Buenos Aires, Argentina.
         </p>
         <p>Solve problems is my main hobbie, that's why i like maths, algorithms and anything that can bring some problem.</p>
-        <i>
-          This website is built using Next.js (you'll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </i>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
