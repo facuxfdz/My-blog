@@ -1,5 +1,5 @@
 ---
-title: 'A little view of my Systems Engineering career'
+title: 'Good CSS Practices'
 date: '2021-07-06'
 ---
 
