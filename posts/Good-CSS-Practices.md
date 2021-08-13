@@ -1,6 +1,6 @@
 ---
 title: 'Good CSS Practices'
-date: '2021-07-06'
+date: '2021-08-13'
 ---
 
 # Some CSS tips to mantain clean CSS code  
